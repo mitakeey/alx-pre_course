@@ -1,2 +1,2 @@
 # This is a ALX pre-course project
-#Take a look.
+# Take a look.
